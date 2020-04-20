@@ -17,7 +17,7 @@ public class CookiesAuth {
 	
 	public void getSeessionId() {
 		
-		
+		//Creating a json object
 		
 		JSONObject json = new JSONObject();
 		
