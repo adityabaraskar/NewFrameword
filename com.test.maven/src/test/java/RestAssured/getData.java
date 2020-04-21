@@ -8,6 +8,8 @@ import io.restassured.response.Response;
 
 public class getData {
 	
+	//GEtting Status Code
+	
 	@Test
 	
 	public void getStatusCode() {
@@ -24,6 +26,8 @@ public class getData {
 		
 	}
 	
+	
+	//Getting the body
 	
 @Test
 	

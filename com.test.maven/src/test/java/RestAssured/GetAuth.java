@@ -19,6 +19,9 @@ public class GetAuth extends BaseClass {
 		.get("http://restapi.demoqa.com/authentication/CheckForAuthentiacation/")
 		.getStatusCode();*/
 		
+		//New line added
+		
+		
 		int code = RestAssured.given()
 				.get()
 				.getStatusCode();
